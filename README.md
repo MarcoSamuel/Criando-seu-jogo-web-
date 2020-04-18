@@ -29,4 +29,4 @@ Enfim espero que gostem deste desafio(s), caso aceitem façam mensalmente e publ
 
 
 ## <h1 align="center">Meu Primeiro Jogo
-<img src="https://www.paulotrentin.com.br/wp-content/uploads/2014/07/tela-inicial-jogo.png" />
+<center><img src="https://www.paulotrentin.com.br/wp-content/uploads/2014/07/tela-inicial-jogo.png"></center>
